@@ -24,6 +24,9 @@ Explore my diverse range of projects, which reflect my interests and skills in t
 - Brief description: This analysis focuses on exploring the Adult census dataset and Heart Disease with a focus on detecting and reducing any biases in Machine Learning model while keeping fairness concerns and Interpretability in mind
 - https://github.com/darshetadinesh/Fairness-Bias-and-Interpretability-
 
+  ### Flight Delay Prediction
+- Brief description: The Flight Delay Prediction Model project aims to leverage machine learning algorithms to forecast the likelihood of flight delays. By analyzing historical flight data, weather patterns, and other relevant factors, the model predicts the probability of delays for upcoming flights.
+- https://github.com/darshetadinesh/Flight-Delay-Prediction-
 
 ## Skills
 - **Programming Languages:** Python, C
