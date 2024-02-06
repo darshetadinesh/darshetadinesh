@@ -32,9 +32,7 @@ Explore my diverse range of projects, which reflect my interests and skills in t
 - **Programming Languages:** Python, C
 - **AI/ML Frameworks:** 
   - TensorFlow (Beginner)
-  - PyTorch
-  - Scikit-learn
-  - Keras (Beginner)
+  - PyTorch(Beginner)
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Databases:** SQL
 
